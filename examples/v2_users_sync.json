@@ -1,0 +1,52 @@
+{
+    "data": {
+        "success": [
+            {
+                "login": "petrov_iv",
+                "success": {
+                    "is_created": 1,
+                    "status": "active",
+                    "password": "8xRrFFJV"
+                }
+            },
+            {
+                "login": "svolkov",
+                "success": {
+                    "is_created": 0,
+                    "status": "active"
+                }
+            },
+            {
+                "login": "skonev",
+                "error": {
+                    "code": 1007,
+                    "message": "Validation error",
+                    "log": {
+                        "email": "Value is not unique"
+                    }
+                }
+            },
+            {
+                "login": "Test01",
+                "success": {
+                    "is_created": 0,
+                    "status": "blocked"
+                }
+            },
+            {
+                "login": "Test02",
+                "success": {
+                    "is_created": 0,
+                    "status": "blocked"
+                }
+            },
+            {
+                "login": "BRD0000005000",
+                "success": {
+                    "is_created": 0,
+                    "status": "blocked"
+                }
+            }
+        ]
+    }
+}
