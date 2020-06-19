@@ -1,0 +1,100 @@
+{
+	"data": [
+        {
+            "id": 2,
+            "name": "КУРС 2",
+            "points": 36,
+            "materials": 
+            {
+                "pdf": 3,
+                "scorm": 1,
+                "link": 0,
+                "html": 0,
+                "test": 1,
+                "video": 0,
+                "total": 5
+            },
+            "statistics": 
+            [
+                {
+                    "login": "slyotin.s",
+                    "user_status": "active",
+                    "program_status": "appointed",
+                    "progress": 0,
+                    "points": 0,
+                    "start_at": "1970-01-01 03:00:00",
+                    "active_at": null,
+                    "pdf": 0,
+                    "scorm": 0,
+                    "link": 0,
+                    "html": 0,
+                    "test": 0,
+                    "video": 0
+                }, 
+                {
+                    "login": "android5",
+                    "user_status": "active",
+                    "program_status": "appointed",
+                    "progress": 0,
+                    "points": 0,
+                    "start_at": "1970-01-01 03:00:00",
+                    "active_at": null,
+                    "pdf": 0,
+                    "scorm": 0,
+                    "link": 0,
+                    "html": 0,
+                    "test": 0,
+                    "video": 0
+                }
+            ]
+        }, 
+        {
+            "id": 8,
+            "name": "New Brief Course",
+            "points": 0,
+            "materials": 
+            {
+                "pdf": 0,
+                "scorm": 0,
+                "link": 3,
+                "html": 0,
+                "test": 0,
+                "video": 0,
+                "total": 3
+            },
+            "statistics": 
+            [
+                {
+                    "login": "android5",
+                    "user_status": "active",
+                    "program_status": "appointed",
+                    "progress": 0,
+                    "points": 0,
+                    "start_at": "1970-01-01 03:00:00",
+                    "active_at": null,
+                    "pdf": 0,
+                    "scorm": 0,
+                    "link": 0,
+                    "html": 0,
+                    "test": 0,
+                    "video": 0
+                }, 
+                {
+                    "login": "testing14",
+                    "user_status": "active",
+                    "program_status": "in_progress",
+                    "progress": 33,
+                    "points": 0,
+                    "start_at": "2020-02-20 22:20:55",
+                    "active_at": null,
+                    "pdf": 0,
+                    "scorm": 0,
+                    "link": 1,
+                    "html": 0,
+                    "test": 0,
+                    "video": 0
+                }
+            ]
+        }
+    ]
+}

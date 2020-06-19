@@ -1,0 +1,18 @@
+{
+	"data": [{
+		"index": 3,
+		"status": "error",
+		"errors": ["Несуществующий логин"]
+	}, {
+		"index": 4,
+		"status": "error",
+		"errors": ["Несуществующий KPI", "Некорректное количество"]
+	}],
+	"meta": {
+		"statistic": {
+			"total": 4,
+			"success": 2,
+			"errors": 2
+		}
+	}
+}
