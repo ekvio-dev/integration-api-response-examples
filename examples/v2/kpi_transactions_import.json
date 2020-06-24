@@ -2,11 +2,27 @@
 	"data": [{
 		"index": 3,
 		"status": "error",
-		"errors": ["Несуществующий логин"]
+		"errors": {
+			"errors": [{
+				"code": 1007,
+				"field": "login",
+				"message": "Несуществующий логин"
+			}]
+		}
 	}, {
 		"index": 4,
 		"status": "error",
-		"errors": ["Несуществующий KPI", "Некорректное количество"]
+		"errors": {
+			"errors": [{
+				"code": 1007,
+				"field": "kpi",
+				"message": "Несуществующий KPI"
+			}, {
+				"code": 1007,
+				"field": "amount",
+				"message": "Некорректное количество"
+			}]
+		}
 	}],
 	"meta": {
 		"statistic": {
