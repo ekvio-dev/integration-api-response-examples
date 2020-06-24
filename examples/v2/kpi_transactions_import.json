@@ -2,27 +2,23 @@
 	"data": [{
 		"index": 3,
 		"status": "error",
-		"errors": {
-			"errors": [{
-				"code": 1007,
-				"field": "login",
-				"message": "Несуществующий логин"
-			}]
-		}
+		"errors": [{
+			"code": 1007,
+			"field": "login",
+			"message": "Несуществующий логин"
+		}]
 	}, {
 		"index": 4,
 		"status": "error",
-		"errors": {
-			"errors": [{
-				"code": 1007,
-				"field": "kpi",
-				"message": "Несуществующий KPI"
-			}, {
-				"code": 1007,
-				"field": "amount",
-				"message": "Некорректное количество"
-			}]
-		}
+		"errors": [{
+			"code": 1007,
+			"field": "kpi",
+			"message": "Несуществующий KPI"
+		}, {
+			"code": 1007,
+			"field": "amount",
+			"message": "Некорректное количество"
+		}]
 	}],
 	"meta": {
 		"statistic": {
