@@ -1,0 +1,66 @@
+{
+    "data": [{
+        "index": 1,
+        "status": "error",
+        "errors": [{
+            "code": 1007,
+            "field": "from",
+            "message": "Attribute or value From not set"
+        }, {
+            "code": 1007,
+            "field": "to",
+            "message": "Attribute or value To not set"
+        }]
+    }, {
+        "index": 2,
+        "status": "error",
+        "errors": [{
+            "code": 1007,
+            "field": "from",
+            "message": "Attribute or value From not set"
+        }, {
+            "code": 1007,
+            "field": "to",
+            "message": "Attribute or value To not set"
+        }]
+    }, {
+        "index": 3,
+        "status": "error",
+        "errors": [{
+            "code": 1007,
+            "field": "from",
+            "message": "Attribute or value From not set"
+        }]
+    }, {
+        "index": 4,
+        "status": "error",
+        "errors": [{
+            "code": 1007,
+            "field": "from",
+            "message": "Login not exists"
+        }]
+    }, {
+        "index": 5,
+        "status": "error",
+        "errors": [{
+            "code": 1007,
+            "field": "to",
+            "message": "Login has unacceptable symbols"
+        }]
+    }, {
+        "index": 7,
+        "status": "error",
+        "errors": [{
+            "code": 1007,
+            "field": "to",
+            "message": "Login is already exists"
+        }]
+    }],
+    "meta": {
+        "statistic": {
+            "total": 8,
+            "success": 2,
+            "errors": 6
+        }
+    }
+}
