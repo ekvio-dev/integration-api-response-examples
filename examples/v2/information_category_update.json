@@ -1,0 +1,38 @@
+{
+  "data": [{
+    "index": 2,
+    "status": "updated",
+    "attributes": {
+      "id": 7129
+    }
+  }, {
+    "index": 3,
+    "status": "updated",
+    "attributes": {
+      "id": 7128
+    }
+  }, {
+    "index": 0,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "id",
+      "message": "Information category id not set"
+    }]
+  }, {
+    "index": 1,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "id",
+      "message": "Information category not exist"
+    }]
+  }],
+  "meta": {
+    "statistic": {
+      "total": 4,
+      "success": 2,
+      "errors": 2
+    }
+  }
+}
