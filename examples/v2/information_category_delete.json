@@ -1,0 +1,30 @@
+{
+  "data": [{
+    "index": 1,
+    "status": "deleted",
+    "attributes": {
+      "id": 7129
+    }
+  }, {
+    "index": 2,
+    "status": "deleted",
+    "attributes": {
+      "id": 7127
+    }
+  }, {
+    "index": 0,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "id",
+      "message": "Category not exist"
+    }]
+  }],
+  "meta": {
+    "statistic": {
+      "total": 3,
+      "success": 2,
+      "errors": 1
+    }
+  }
+}
