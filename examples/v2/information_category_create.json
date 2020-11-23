@@ -1,0 +1,30 @@
+{
+  "data": [{
+    "index": 0,
+    "status": "created",
+    "attributes": {
+      "id": 7128
+    }
+  }, {
+    "index": 2,
+    "status": "created",
+    "attributes": {
+      "id": 7129
+    }
+  }, {
+    "index": 1,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "parent_id",
+      "message": "Parent id does not exist"
+    }]
+  }],
+  "meta": {
+    "statistic": {
+      "total": 3,
+      "success": 2,
+      "errors": 1
+    }
+  }
+}
