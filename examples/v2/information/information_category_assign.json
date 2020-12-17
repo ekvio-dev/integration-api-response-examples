@@ -1,0 +1,25 @@
+{
+  "data": [{
+    "index": 1,
+    "status": "created",
+    "attributes": {
+      "category_id": 8159,
+      "login": "test10"
+    }
+  }, {
+    "index": 0,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "login",
+      "message": "Login not exist"
+    }]
+  }],
+  "meta": {
+    "statistic": {
+      "total": 2,
+      "success": 1,
+      "errors": 1
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data": [{
+    "index": 0,
+    "status": "updated",
+    "attributes": {
+      "id": 20256
+    }
+  }],
+  "meta": {
+    "statistic": {
+      "total": 1,
+      "success": 1,
+      "errors": 0
+    }
+  }
+}
