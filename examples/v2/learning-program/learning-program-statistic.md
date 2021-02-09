@@ -37,3 +37,6 @@
 | html | Количество пройденных материалов типа HTML | int |
 | test | Количество пройденных материалов типа TEST | int |
 | video | Количество пройденных материалов типа VIDEO | int |
+
+### Пример
+[Пример отчета](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/learning-program/learning-program-statistic-response.json)
