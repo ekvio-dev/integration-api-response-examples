@@ -1,0 +1,24 @@
+{
+  "data": [{
+    "event_id": 24055,
+    "event_status": "active",
+    "event_type": "offline",
+    "login": "testprogress11",
+    "user_event_status": "participated",
+    "created_at": "2020-10-22T09:44:20+03:00"
+  }, {
+    "event_id": 24055,
+    "event_status": "active",
+    "event_type": "offline",
+    "login": "iriglava",
+    "user_event_status": "not enrolled",
+    "created_at": null
+  }, {
+    "event_id": 24057,
+    "event_status": "active",
+    "event_type": "online",
+    "login": "licenz",
+    "user_event_status": "applied",
+    "created_at": null
+  }]
+}
