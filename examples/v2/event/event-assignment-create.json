@@ -1,0 +1,33 @@
+{
+  "data": [{
+    "index": 0,
+    "status": "created",
+    "attributes": {
+      "event": 1,
+      "login": "zxz123"
+    }
+  }, {
+    "index": 1,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "event",
+      "message": "Individual assignment is already exists."
+    }]
+  }, {
+    "index": 2,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "event",
+      "message": "Individual assignment is already exists."
+    }]
+  }],
+  "meta": {
+    "statistic": {
+      "total": 3,
+      "success": 1,
+      "errors": 2
+    }
+  }
+}
