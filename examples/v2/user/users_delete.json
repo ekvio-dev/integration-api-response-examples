@@ -1,0 +1,62 @@
+{
+  "data": [{
+    "index": 5,
+    "status": "deleted",
+    "attributes": {
+      "login": "testprofi"
+    }
+  }, {
+    "index": 6,
+    "status": "deleted",
+    "attributes": {
+      "login": "111222"
+    }
+  }, {
+    "index": 0,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "login",
+      "message": "Login does not exist"
+    }]
+  }, {
+    "index": 1,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "login",
+      "message": "Login does not exist"
+    }]
+  }, {
+    "index": 2,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "login",
+      "message": "Value must be string"
+    }]
+  }, {
+    "index": 3,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "login",
+      "message": "Value must be string"
+    }]
+  }, {
+    "index": 4,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "login",
+      "message": "Login does not exist"
+    }]
+  }],
+  "meta": {
+    "statistic": {
+      "total": 7,
+      "success": 2,
+      "errors": 5
+    }
+  }
+}

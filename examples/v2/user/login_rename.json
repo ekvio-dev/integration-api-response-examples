@@ -1,0 +1,32 @@
+{
+    "data": [{
+        "index": 2,
+        "status": "updated",
+        "attributes": {
+            "login": "testprofi"
+        }
+    }, {
+        "index": 0,
+        "status": "error",
+        "errors": [{
+            "code": 1007,
+            "field": "from",
+            "message": "Value is required"
+        }]
+    }, {
+        "index": 1,
+        "status": "error",
+        "errors": [{
+            "code": 1007,
+            "field": "to",
+            "message": "Bad login format"
+        }]
+    }],
+    "meta": {
+        "statistic": {
+            "total": 3,
+            "success": 1,
+            "errors": 2
+        }
+    }
+}
