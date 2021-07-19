@@ -1,0 +1,15 @@
+{
+  "data": [{
+    "id": 5,
+    "login": "devtest",
+    "viewed_at": "2021-07-19T12:15:40+03:00"
+  }, {
+    "id": 5,
+    "login": "mike",
+    "viewed_at": null
+  }, {
+    "id": 7,
+    "login": "devtest",
+    "viewed_at": null
+  }]
+}
