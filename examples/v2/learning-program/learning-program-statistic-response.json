@@ -10,6 +10,8 @@
       "html": 0,
       "test": 0,
       "video": 1,
+      "longread": 0,
+      "document": 0,
       "total": 1
     },
     "statistics": [{
@@ -25,7 +27,9 @@
       "link": 0,
       "html": 0,
       "test": 0,
-      "video": 1
+      "video": 1,
+      "longread": 0,
+      "document": 0
     }, {
       "login": "noname2",
       "user_status": "active",
@@ -39,7 +43,9 @@
       "link": 0,
       "html": 0,
       "test": 0,
-      "video": 1
+      "video": 1,
+      "longread": 0,
+      "document": 0
     }]
   }],
   "include": []

@@ -20,6 +20,8 @@
 | html | Количество материалов типа HTML | int |
 | test | Количество материалов типа TEST | int |
 | video | Количество материалов типа VIDEO | int |
+| longread | Количество материалов типа LONGREAD | int |
+| document | Количество материалов типа DOCUMENT | int |
 | total | Общее количество материалов | int |
 
 ### Структура статистики программы обучения (атрибут statistics)
@@ -38,6 +40,8 @@
 | html | Количество пройденных материалов типа HTML | int |
 | test | Количество пройденных материалов типа TEST | int |
 | video | Количество пройденных материалов типа VIDEO | int |
+| longread | Количество пройденных материалов типа LONGREAD | int |
+| document | Количество пройденных материалов типа DOCUMENT | int |
 
 ### Пример
 [Пример отчета](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/learning-program/learning-program-statistic-response.json)
