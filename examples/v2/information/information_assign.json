@@ -1,0 +1,67 @@
+{
+  "data": [{
+    "index": 1,
+    "status": "created",
+    "attributes": {
+      "id": 8159,
+      "login": "test10"
+    }
+  }, {
+    "index": 0,
+    "status": "error",
+    "errors": [
+      {
+        "code": 1007,
+        "field": "login",
+        "message": "Login not exist"
+      },
+      {
+        "code": 1007,
+        "field": "login",
+        "message": "Login cannot be blank."
+      },
+      {
+        "code": 1007,
+        "field": "login",
+        "message": "Login must be a string."
+      },
+      {
+        "code": 1007,
+        "field": "login",
+        "message": "Login does not exist"
+      },
+      {
+        "code": 1007,
+        "field": "id",
+        "message": "Id cannot be blank."
+      },
+      {
+        "code": 1007,
+        "field": "id",
+        "message": "Id must be no less than 1."
+      },
+      {
+        "code": 1007,
+        "field": "id",
+        "message": "Information does not exist"
+      },
+      {
+        "code": 1007,
+        "field": "id",
+        "message": "Category is copying"
+      },
+      {
+        "code": 1007,
+        "field": "id",
+        "message": "User assignment for information is already exists"
+      }
+    ]
+  }],
+  "meta": {
+    "statistic": {
+      "total": 2,
+      "success": 1,
+      "errors": 1
+    }
+  }
+}
