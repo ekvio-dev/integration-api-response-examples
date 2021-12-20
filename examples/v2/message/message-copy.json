@@ -1,0 +1,39 @@
+{
+  "data": [{
+    "index": 0,
+    "status": "created",
+    "attributes": {
+      "id": [
+        1001, 1002, 1003
+      ],
+      "from": 1000
+    }
+  },
+    {
+      "index": 1,
+      "status": "created",
+      "attributes": {
+        "id": [
+          1004
+        ],
+        "from": 999
+      }
+    },
+    {
+      "index": 2,
+      "status": "error",
+      "errors": [{
+        "code": 1007,
+        "field": "id",
+        "message": "Id required"
+      }]
+    }
+  ],
+  "meta": {
+    "statistic": {
+      "total": 3,
+      "success": 2,
+      "errors": 1
+    }
+  }
+}
