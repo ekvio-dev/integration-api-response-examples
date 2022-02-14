@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "status": "updated",
+      "attributes": {
+        "id": "00dac794-5f22-11eb-9dc8-0242ac12001d",
+        "status": "success",
+        "comment": "Задание выполнено не в срок."
+      }
+    },
+    {
+      "index": 1,
+      "status": "error",
+      "errors": [
+        {
+          "code": 1007,
+          "field": "id",
+          "message": "Answer id does not exist"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "statistic": {
+      "total": 2,
+      "success": 1,
+      "errors": 1
+    }
+  }
+}
