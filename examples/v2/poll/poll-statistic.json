@@ -1,0 +1,23 @@
+{
+  "data": [{
+    "id": 2866,
+    "login": "artem.mikheev@test.com",
+    "start_at": "2021-09-08T16:53:16+03:00",
+    "end_at": "2021-09-08T17:40:00+03:00"
+  }, {
+    "id": 2866,
+    "login": "sergej.ardonov@test.com",
+    "start_at": "2021-09-08T16:53:16+03:00",
+    "end_at": null
+  }, {
+    "id": 2866,
+    "login": "Anton.Bartvich@test.com",
+    "start_at": null,
+    "end_at": null
+  }, {
+    "id": 2866,
+    "login": "dmitrij.moiseev@test.com",
+    "start_at": null,
+    "end_at": null
+  }]
+}
