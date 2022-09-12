@@ -1,0 +1,18 @@
+{
+  "data": [{
+    "question_id": 25907,
+    "login": "Gennadij.Radyuk@henkel.com",
+    "answers": [1836],
+    "comment": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10."
+  }, {
+    "question_id": 25907,
+    "login": "darya.popova@henkel.com",
+    "answers": [],
+    "comment": null
+  }, {
+    "question_id": 25907,
+    "login": "ivan.lysikov@henkel.com",
+    "answers": [1836, 1837],
+    "comment": null
+  }]
+}
