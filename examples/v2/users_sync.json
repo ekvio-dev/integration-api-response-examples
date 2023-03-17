@@ -67,5 +67,14 @@
         "data": {
             "status": "blocked"
         }
-    }]
+    },
+        {
+            "index": 3,
+            "login": "VBychkov",
+            "status": "unchanged",
+            "data": {
+                "status": "blocked"
+            }
+        }
+    ]
 }
