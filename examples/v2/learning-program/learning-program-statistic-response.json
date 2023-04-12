@@ -1,7 +1,11 @@
 {
   "data": [{
     "id": 59,
+    "category_id": 3810,
     "name": "программа с видосиками",
+    "deadline_type": "absolute",
+    "deadline_at": "2023-02-22T12:00:00+03:00",
+    "deadline_period_at": null,
     "points": 30,
     "materials": {
       "pdf": 0,
