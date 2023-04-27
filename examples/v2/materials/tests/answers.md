@@ -20,4 +20,6 @@
 | filters   | Filter answer_status has not valid status. Allowed statuses: success, fail, checking, not_answer | Значения answer_status для атрибута filters не соответствуют допустимому |
 | afterDate | Invalid value format. Valid Y-m-d\TH:i:sP | Не валидный формат для атрибута afterDate |
 | toDate    | Invalid value format. Valid Y-m-d\TH:i:sP | Не валидный формат для атрибута toDate |
+### [Пример ошибки для параллельного запуска задач одного типа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/uniq_task_error.json)
+### [Пример ошибки недоступности модуля](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/module_unavalible_error.json)
 <!-- ### [Пример ответа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/user/login_delete.json) -->

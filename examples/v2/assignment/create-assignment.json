@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "status": "created",
+      "attributes": {
+        "id": 611,
+        "login": "testekvio04"
+      }
+    },
+    {
+      "index": 1,
+      "status": "error",
+      "errors": [
+        {
+          "code": 1007,
+          "field": "id",
+          "message": "ID not exist"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "status": "error",
+      "errors": [
+        {
+          "code": 1007,
+          "field": "id",
+          "message": "ID not exist"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "statistic": {
+      "total": 3,
+      "success": 1,
+      "errors": 2
+    }
+  }
+}

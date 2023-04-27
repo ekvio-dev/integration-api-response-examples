@@ -47,6 +47,7 @@
 | video          | Количество пройденных материалов типа VIDEO                                                                                      | int            |
 | longread       | Количество пройденных материалов типа LONGREAD                                                                                   | int            |
 | document       | Количество пройденных материалов типа DOCUMENT                                                                                   | int            |
-
+### [Пример ошибки для параллельного запуска задач одного типа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/uniq_task_error.json)
+### [Пример ошибки недоступности модуля](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/module_unavalible_error.json)
 ### Пример
 [Пример отчета](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/learning-program/learning-program-statistic-response.json)
