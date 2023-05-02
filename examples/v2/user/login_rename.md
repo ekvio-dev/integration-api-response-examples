@@ -15,4 +15,5 @@
 | to        | Bad login format                   | Значение для атрибута to не соответствует формату логина |
 | to        | Login is already exists            | Конечный логин для переименования из значения атрибута to уже существует |
 
+### [Пример ошибки для параллельного запуска задач одного типа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/uniq_task_error.json)
 ### [Пример ответа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/user/login_rename.json)

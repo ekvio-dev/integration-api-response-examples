@@ -8,3 +8,5 @@
 | login    | Наименовение учетной записи                                                                             | string        |
 | start_at | Дата начала прохождения опроса. Формат значения Y-m-d\TH:i:sP (например, 2020-12-01T15:52:01+03:00)     | string / null |
 | end_at   | Дата завершения прохождения опроса. Формат значения Y-m-d\TH:i:sP (например, 2020-12-01T15:52:01+03:00) | string / null |
+### [Пример ошибки для параллельного запуска задач одного типа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/uniq_task_error.json)
+### [Пример ошибки недоступности модуля](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/module_unavalible_error.json)

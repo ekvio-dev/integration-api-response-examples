@@ -22,6 +22,7 @@
 | start_at | Дата начала пользователем материала обучения. Формат значения Y-m-d\TH:i:sP (например, 2020-12-01T15:52:01+03:00) | string / null |
 | end_at | Дата окончания пользователем материала обучения. Формат значения Y-m-d\TH:i:sP (наприме, 2020-12-01T15:52:01+03:00) |  string / null |
 | update_at | Дата последней активности пользователя по материалу обучения. Формат значения Y-m-d\TH:i:sP (наприме, 2020-12-01T15:52:01+03:00) |  string / null |
-
+### [Пример ошибки для параллельного запуска задач одного типа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/uniq_task_error.json)
+### [Пример ошибки недоступности модуля](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/module_unavalible_error.json)
 ### Пример
 [Пример отчета](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/learning-program/materials_statistic.json)
