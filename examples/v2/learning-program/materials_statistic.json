@@ -80,6 +80,126 @@
                     "update_at": "2020-02-03 16:51:36"
                 }
             ]
+        },
+        {
+            "id": 110,
+            "name": "external link",
+            "type": "link",
+            "status": "active",
+            "points": 20,
+            "statistics":
+            [
+                {
+                    "login": "d1astola",
+                    "user_status": "active",
+                    "material_status": "completed",
+                    "points": 10,
+                    "progress": 100,
+                    "start_at": "2020-01-31 10:06:52",
+                    "end_at": "2020-01-31 10:06:52",
+                    "update_at": "2020-01-31 10:06:52"
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "name": "html page",
+            "type": "html",
+            "status": "active",
+            "points": 20,
+            "statistics":
+            [
+                {
+                    "login": "product4",
+                    "user_status": "active",
+                    "material_status": "completed",
+                    "points": 20,
+                    "progress": 100,
+                    "start_at": "2020-01-31 10:06:52",
+                    "end_at": "2020-01-31 10:06:52",
+                    "update_at": "2020-01-31 10:06:52"
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "name": "Final test",
+            "type": "test",
+            "status": "active",
+            "points": 50,
+            "statistics":
+            [
+                {
+                    "login": "product4",
+                    "user_status": "active",
+                    "material_status": "completed",
+                    "points": 50,
+                    "progress": 100,
+                    "start_at": "2020-01-31 10:06:52",
+                    "end_at": "2020-01-31 10:06:52",
+                    "update_at": "2020-01-31 10:06:52"
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "name": "Final video",
+            "type": "video",
+            "status": "active",
+            "points": 15,
+            "statistics":
+            [
+                {
+                    "login": "d1astola",
+                    "user_status": "active",
+                    "material_status": "completed",
+                    "points": 15,
+                    "progress": 100,
+                    "start_at": "2020-01-31 10:06:52",
+                    "end_at": "2020-01-31 10:06:52",
+                    "update_at": "2020-01-31 10:06:52"
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "name": "Final longread",
+            "type": "longread",
+            "status": "active",
+            "points": 5,
+            "statistics":
+            [
+                {
+                    "login": "d1astola",
+                    "user_status": "active",
+                    "material_status": "completed",
+                    "points": 5,
+                    "progress": 100,
+                    "start_at": "2020-01-31 10:06:52",
+                    "end_at": "2020-01-31 10:06:52",
+                    "update_at": "2020-01-31 10:06:52"
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "name": "Final document",
+            "type": "document",
+            "status": "active",
+            "points": 5,
+            "statistics":
+            [
+                {
+                    "login": "d1astola",
+                    "user_status": "active",
+                    "material_status": "completed",
+                    "points": 5,
+                    "progress": 100,
+                    "start_at": "2020-01-31 10:06:52",
+                    "end_at": "2020-01-31 10:06:52",
+                    "update_at": "2020-01-31 10:06:52"
+                }
+            ]
         }
     ]
 }
