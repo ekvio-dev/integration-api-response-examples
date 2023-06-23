@@ -13,4 +13,6 @@
 | mark | Limit must be no less than <min limit>.        | Количество переданных значений в атрибуте mark меньше минимально доступного значения |
 | mark | Limit must be no greater than <max limit>.   | Количество переданных значений в атрибуте mark больше максимально доступного значения |
 | comment | Max length comment is <max limit> characters | Значение для атрибута comment превышает установленный максимальный лимит |
+### [Пример ошибки для параллельного запуска задач одного типа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/uniq_task_error.json)
+### [Пример ошибки недоступности модуля](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/module_unavalible_error.json)
 ### [Пример ответа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/learning-program/open-question-verification.json)

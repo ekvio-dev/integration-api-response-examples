@@ -14,4 +14,6 @@
 | filters | Login filter must be array | Значение login внутри атрибута filters должно иметь тип: массив |
 | filters | Login filter elements count is greater 500 | Количество переданных значений в login для атрибуте filters больше максимально доступного значения |
 
+### [Пример ошибки для параллельного запуска задач одного типа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/uniq_task_error.json)
+### [Пример ошибки недоступности модуля](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/module_unavalible_error.json)
 <!-- ### [Пример ответа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/information/information-statistic.json) -->

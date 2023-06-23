@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": 1007,
+      "field": "company_id",
+      "message": "Module {module_name} not available for company"
+    }
+  ]
+}

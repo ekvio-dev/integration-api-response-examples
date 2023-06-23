@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": 1007,
+      "field": "integration",
+      "message": "The integration task cannot be taken on because another asynchronous task associated with this module is running. Running task ID: {id}"
+    }
+  ]
+}

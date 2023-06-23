@@ -8,4 +8,5 @@
 | login      | Value should be at least <min limit> symbols | Длина значения атрибута login меньше 1 символа |
 | login      | Login does not exist               | Логин не существует |
 
+### [Пример ошибки для параллельного запуска задач одного типа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/uniq_task_error.json)
 ### [Пример ответа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/user/login_delete.json)
