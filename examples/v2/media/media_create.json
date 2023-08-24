@@ -1,0 +1,26 @@
+{
+  "data": [{
+    "index": 0,
+    "status": "created",
+    "attributes": {
+      "id": 20256,
+      "status": "active",
+      "deeplink": "http://host.dev/discover/20256"
+    }
+  }, {
+    "index": 1,
+    "status": "error",
+    "errors": [{
+      "code": 1007,
+      "field": "file_token",
+      "message": "Not allowed file mime type."
+    }]
+  }],
+  "meta": {
+    "statistic": {
+      "total": 2,
+      "success": 1,
+      "errors": 1
+    }
+  }
+}
