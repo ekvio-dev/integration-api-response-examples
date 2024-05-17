@@ -55,6 +55,16 @@
             "field": "to",
             "message": "Login is already exists"
         }]
+    },{
+        "index": 8,
+        "status": "unchanged",
+        "attributes": []
+    },{
+        "index": 9,
+        "status": "updated",
+        "attributes": {
+            "login": "new_login"
+        }
     }],
     "meta": {
         "statistic": {
