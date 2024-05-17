@@ -21,11 +21,15 @@
             "field": "to",
             "message": "Bad login format"
         }]
+    },{
+        "index": 3,
+        "status": "unchanged",
+        "attributes": []
     }],
     "meta": {
         "statistic": {
-            "total": 3,
-            "success": 1,
+            "total": 4,
+            "success": 2,
             "errors": 2
         }
     }
