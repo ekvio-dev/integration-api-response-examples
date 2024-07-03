@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 78,
+      "name": "Траектория с открытием материалов по дате",
+      "max_points": 3,
+      "login": "logg253",
+      "user_status": "blocked",
+      "status": "appointed",
+      "start_date": null,
+      "active_at": null,
+      "end_at": null,
+      "passed_at_time": null,
+      "points": 0,
+      "objects_amount": 3,
+      "objects_passed": 0,
+      "global_progress": 0,
+      "progress_in_moment": 0
+    },
+    {
+      "id": 23,
+      "name": "Адаптация",
+      "max_points": 22,
+      "login": "testruk",
+      "user_status": "active",
+      "status": "appointed",
+      "start_date": null,
+      "active_at": null,
+      "end_at": null,
+      "passed_at_time": null,
+      "points": 0,
+      "objects_amount": 5,
+      "objects_passed": 0,
+      "global_progress": 0,
+      "progress_in_moment": 0
+    },
+    {
+      "id": 140,
+      "name": "Произвольная",
+      "max_points": 0,
+      "login": "licenz",
+      "user_status": "active",
+      "status": "appointed",
+      "start_date": null,
+      "active_at": null,
+      "end_at": null,
+      "passed_at_time": 0,
+      "points": 0,
+      "objects_amount": 3,
+      "objects_passed": 0,
+      "global_progress": 0,
+      "progress_in_moment": 0
+    }
+  ]
+}
