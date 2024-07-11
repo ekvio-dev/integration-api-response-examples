@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "message_id": 7917,
+      "login": "cece",
+      "viewed_at": "2020-11-17T11:40:24+03:00"
+    },
+    {
+      "message_id": 7917,
+      "login": "log1",
+      "viewed_at": "2020-11-20T15:59:06+03:00"
+    },
+    {
+      "message_id": 7917,
+      "login": "dg6",
+      "viewed_at": null
+    }
+  ]
+}

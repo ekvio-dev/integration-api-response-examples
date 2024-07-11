@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "status": "deleted",
+      "attributes": {
+        "id": 6982
+      }
+    },
+    {
+      "index": 1,
+      "status": "error",
+      "errors": [
+        {
+          "code": 1007,
+          "field": "id",
+          "message": "Task is not exist"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "statistic": {
+      "total": 2,
+      "success": 1,
+      "errors": 1
+    }
+  }
+}

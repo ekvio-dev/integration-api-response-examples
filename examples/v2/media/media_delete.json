@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "status": "deleted",
+      "attributes": {
+        "id": 2635
+      }
+    },
+    {
+      "index": 2,
+      "status": "deleted",
+      "attributes": {
+        "id": 13
+      }
+    },
+    {
+      "index": 1,
+      "status": "error",
+      "errors": [
+        {
+          "code": 1007,
+          "field": "id",
+          "message": "Media is not exist"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "statistic": {
+      "total": 3,
+      "success": 2,
+      "errors": 1
+    }
+  }
+}
