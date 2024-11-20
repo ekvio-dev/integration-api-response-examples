@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "index": 1,
+      "status": "deleted",
+      "attributes": {
+        "id": 33792
+      }
+    },
+    {
+      "index": 0,
+      "status": "error",
+      "errors": [
+        {
+          "code": 1007,
+          "field": "id",
+          "message": "Event is not exist"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "statistic": {
+      "total": 2,
+      "success": 1,
+      "errors": 1
+    }
+  }
+}

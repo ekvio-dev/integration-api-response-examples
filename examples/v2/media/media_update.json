@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "status": "updated",
+      "attributes": {
+        "id": 2777,
+        "status": "hide"
+      }
+    },
+    {
+      "index": 1,
+      "status": "error",
+      "errors": [
+        {
+          "code": 1007,
+          "field": "id",
+          "message": "Media is not exist"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "statistic": {
+      "total": 2,
+      "success": 1,
+      "errors": 1
+    }
+  }
+}
